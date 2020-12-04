@@ -26,7 +26,6 @@ Last updated at 2020-12-03 12:19:42.225343.
 
 </details>
 
-![](https://github.com/farhadbhuiyan/farhadbhuiyan/raw/master/stars_over_time.png)
 
 ## number of commits :octocat:
 
@@ -44,11 +43,6 @@ Last updated at 2020-12-03 12:19:42.225343.
 10. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 ??s
 
 </details>
-
-![](https://github.com/farhadbhuiyan/farhadbhuiyan/raw/master/commits_per_hour.png)
-
-![](https://github.com/farhadbhuiyan/farhadbhuiyan/raw/master/commits_per_weekday.png)
-
 
 ### Connect with me:
 
