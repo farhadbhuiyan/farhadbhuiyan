@@ -1,4 +1,4 @@
-### Welcome to my profile ??
+### Welcome to my profile 👋
 
 I am Farhad Bhuiyan. Here I present some (automatically generated) statistics about my activity on GitHub. For more info check out my website [www.farhadbhuiyan.github.io/portfolio](https://farhadbhuiyan.github.io/portfolio).
 
