@@ -9,44 +9,18 @@
 - 🥅 Everyday Goals: Become the Best Version of Myself.
 
 
-Last updated at 2020-12-03 12:19:42.225343.
+## 📌 Pinned Project
 
-# GitHub statistics — my top 10
-
-## number of GitHub stars ??
-
-1. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-2. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-3. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-4. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-5. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-<details><summary>Click to expand!</summary>
-
-6. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-7. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-8. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-9. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-10. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-
-</details>
+| SL | Live Website Link | Repo Link |
+| --- | --- | --- |
+| 1 | [Banglademy](https://banglademy.netlify.app/) | [Banglademy](https://github.com/farhadbhuiyan/bangla-demy) |
+| 2 | [CreativeAgency](https://creative-agency-3de3b.firebaseapp.com/) | [CreativeAgency](https://github.com/farhadbhuiyan/creative-agency-client) |
+| 3 | [VlounteerNetwork](https://volunteer-networkbd.firebaseapp.com/) | [VlounteerNetwork](https://github.com/farhadbhuiyan/vlounteer-network-client) |
+| 4 | [TravelGuru](https://travelgurubd.netlify.app/) | [TravelGuru](https://github.com/farhadbhuiyan/travel-guru) |
+| 5 | [SocialBuddy](https://socialbuddybd.netlify.app/) | [SocialBuddy](https://github.com/farhadbhuiyan/social-buddy) |
 
 
-## number of commits :octocat:
 
-1. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-2. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-3. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-4. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-5. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-<details><summary>Click to expand!</summary>
-
-6. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-7. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-8. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-9. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-10. [farhadbhuiyan/#](https://github.com/farhadbhuiyan/#/), 835 :octocat:
-
-</details>
 
 ### Connect with me:
 
