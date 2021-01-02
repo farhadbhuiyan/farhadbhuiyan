@@ -28,7 +28,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
 
 
