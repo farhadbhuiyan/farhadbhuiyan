@@ -41,4 +41,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/farhadbhuiyan
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadbhuiyan" alt="50um3n&color=brightgreen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadbhuiyan&color=brightgreen" alt="50um3n" /> </p>
