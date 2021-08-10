@@ -5,7 +5,6 @@
 - 💬 Ask me about JavaScript.
 - 👯 Beginner's mindset and curiosity
 - 🌟 I love to explore new technologies
-- 🎓 Bachelors's in Computer Science & Engineering  from 🏛️ [RMSTU](https://rmstu.edu.bd/)  :bangladesh:
 - 🥅 Everyday Goals: Become the Best Version of Myself.
 
 
