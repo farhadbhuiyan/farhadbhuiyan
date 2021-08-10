@@ -8,18 +8,6 @@
 - 🥅 Everyday Goals: Become the Best Version of Myself.
 
 
-## 📌 Pinned Project
-
-| SL | Live Website Link | Repo Link |
-| --- | --- | --- |
-| 1 | [Banglademy](https://banglademy.netlify.app/) | [Banglademy](https://github.com/farhadbhuiyan/bangla-demy) |
-| 2 | [CreativeAgency](https://creative-agency-3de3b.firebaseapp.com/) | [CreativeAgency](https://github.com/farhadbhuiyan/creative-agency-client) |
-| 3 | [VlounteerNetwork](https://volunteer-networkbd.firebaseapp.com/) | [VlounteerNetwork](https://github.com/farhadbhuiyan/vlounteer-network-client) |
-| 4 | [TravelGuru](https://travelgurubd.netlify.app/) | [TravelGuru](https://github.com/farhadbhuiyan/travel-guru) |
-| 5 | [SocialBuddy](https://socialbuddybd.netlify.app/) | [SocialBuddy](https://github.com/farhadbhuiyan/social-buddy) |
-
-
-
 
 ### Connect with me:
 
