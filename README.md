@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Farhad Bhuiyan
 
-- 🔭 I’m currently working with React, Node.js, Express.js, Mongodb, Javascript, HTML, CSS, Bootstrap etc.
+- 🔭 I’m currently working with Angular
 - 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about JavaScript.
 - 👯 Beginner's mindset and curiosity
